@@ -1,1 +1,1 @@
-# Project-Landing-Page
+The purpose of this project is to build and design a webpage to show and further advance CSS skills mixed with HTML. 
